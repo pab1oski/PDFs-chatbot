@@ -54,9 +54,5 @@ To use the MultiPDF Chat App, follow these steps:
 
 5. Ask questions in natural language about the loaded PDFs using the chat interface.
 
-![User Interface](./web_interface.jpg)
+![User Interface](./web_interface.png)
 
-
-## License
--------
-The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
